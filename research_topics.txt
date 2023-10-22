@@ -1,0 +1,11 @@
+week-1:
+
+week-2:
+
+week-3:
+    BG-NBD model
+    Gamma Gamma model
+
+week-4:
+    Bayesian Average Rating (BAR)
+    Wilson Lower Bound (WLB)
