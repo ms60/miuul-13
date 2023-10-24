@@ -9,3 +9,6 @@ week-3:
 week-4:
     Bayesian Average Rating (BAR)
     Wilson Lower Bound (WLB)
+    shapiro
+    levene
+    mannwhitneyu
